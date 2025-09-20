@@ -136,8 +136,8 @@ background: linear-gradient(90deg, rgba(45, 191, 196, 1) 50%, rgba(87, 199, 133,
 .lang-button {
     padding: 8px 12px;
     border-radius: 20px;
-    background-color: var(#000103);
-    color: var(#000103);
+    background-color:#3962f6 ;
+    color: #eceef5;
     font-size: 0.9rem;
     font-weight: 500;
     cursor: pointer;

@@ -61,7 +61,7 @@ form.addEventListener('submit', async (e)=>{
     // Check if the user is confirming the detected location
     if (awaitingLocationConfirmation) {
         const userConfirmation = message.toLowerCase().trim();
-        if (userConfirmation === 'yes' || userConfirmation === 'y' || userConfirmation === 'proceed') {
+        if (userConfirmation === 'yes' || userConfirmation === 'y' || userConfirmation === 's' || userConfirmation === 'groundwater level in my location' || userConfirmation === 'proceed') {
             awaitingLocationConfirmation = false;
             fetchGroundwaterDataForLocation(detectedLocation);
         } else {
