@@ -1,4 +1,4 @@
-const BACKEND_API = 'https://geoflow.onrender.com';
+const BACKEND_API = 'https://geoflow.onrender.com/api';
 const messagesEl = document.getElementById('messages');
 const form = document.getElementById('chat-form');
 const input = document.getElementById('msg');
