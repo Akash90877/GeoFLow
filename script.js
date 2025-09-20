@@ -1,4 +1,4 @@
-const BACKEND_API = 'http://127.0.0.1:8000/api';
+const BACKEND_API = 'https://geoflowai.netlify.app/';
 const messagesEl = document.getElementById('messages');
 const form = document.getElementById('chat-form');
 const input = document.getElementById('msg');
