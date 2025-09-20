@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoFlow Bot - Groundwater Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="water-background">
+        <div class="water-pour"></div>
+        <div class="bubble x1"></div>
+        <div class="bubble x2"></div>
+        <div class="bubble x3"></div>
+        <div class="bubble x4"></div>
+        <div class="bubble x5"></div>
+    </div>
+
+    <div class="chat-wrapper">
+        <div class="header">
+            <div class="logo">GeoFlow AI
+                <!-- <i class="fas fa-plus"></i>  <i class="fas fa-plus"></i> -->
+            </div>
+            <div class="language-selector">
+                <div class="lang-button active" data-lang="en">ENGLISH</div>
+                <div class="lang-button" data-lang="ta">தமிழ்</div>
+                <div class="lang-button" data-lang="te">తెలుగు</div>
+            </div>
+        </div>
+
+        <div id="messages" class="messages">
+            <div class="welcome-card">
+                <div class="welcome-icon">
+                    <img src="/gw.jpg.png" alt="GW Icon">
+                </div>
+                <h3 class="welcome-title">Welcome to GeoFlow AI Assitant <i class="fas fa-star sparkle"></i></h3>
+                <p class="welcome-text">
+                    Your intelligent assistant with a refreshing perspective.<br>
+                    Ask me anything and I'll help you with clear, flowing<br>
+                    answers like crystal water.
+                </p>
+            </div>
+        </div>
+
+        <form id="chat-form" class="input-area">
+            <input type="text" id="msg" placeholder="Type your message..." autocomplete="off">
+            <div class="input-icons">
+                <!-- <i class="far fa-smile"></i>
+                <i class="fas fa-paperclip"></i> -->
+            </div>
+            <button type="submit" id="send-btn">
+                <i class="fas fa-paper-plane"></i> Send
+            </button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

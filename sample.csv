@@ -1,0 +1,102 @@
+location,groundwater_level,pH,TDS,COD,BOD,status,last_updated
+Chennai,15.1,7.0,550,12,5,Recommended for irrigation,2025-09-19
+Coimbatore,18.3,7.2,530,14,6,Recommended for drinking & irrigation,2025-09-18
+Madurai,20.5,6.8,480,10,4,Recommended for irrigation,2025-09-17
+Tiruchirappalli,17.0,7.1,600,15,5,Recommended for drinking,2025-09-16
+Salem,19.2,7.0,520,13,5,Recommended for drinking & irrigation,2025-09-15
+Tirunelveli,22.1,7.4,650,18,7,Not recommended for drinking,2025-09-14
+Vellore,16.8,6.9,500,11,4,Recommended for irrigation & drinking,2025-09-13
+Erode,18.0,7.2,540,14,5,Recommended for drinking,2025-09-12
+Tanjore,21.5,7.1,580,16,5,Recommended for irrigation,2025-09-11
+Pudukkottai,20.8,6.8,620,17,6,Not recommended for drinking,2025-09-10
+Tirupattur,17.5,7.0,510,12,5,Recommended for drinking,2025-09-09
+Cuddalore,23.0,7.5,700,20,8,Not recommended for drinking,2025-09-08
+Thoothukudi,22.7,7.3,670,19,7,Not recommended for drinking,2025-09-07
+Nilgiris,14.5,7.2,480,11,4,Recommended for drinking & irrigation,2025-09-06
+Ramanathapuram,24.2,7.6,720,22,9,Not recommended for drinking,2025-09-05
+Nagapattinam,21.9,7.1,610,16,6,Recommended for irrigation,2025-09-04
+Mayiladuthurai,20.6,7.0,590,15,5,Recommended for irrigation,2025-09-03
+Kanchipuram,16.5,7.1,520,13,5,Recommended for drinking & irrigation,2025-09-02
+Thiruvallur,19.8,7.0,540,14,5,Recommended for drinking,2025-09-01
+Ranipet,18.9,6.9,560,14,5,Recommended for drinking,2025-08-31
+Tirupur,17.2,7.0,510,12,5,Recommended for irrigation & drinking,2025-08-30
+Kumbakonam,20.1,7.0,575,15,5,Recommended for irrigation,2025-08-29
+Dindigul,19.7,6.9,600,16,6,Recommended for irrigation,2025-08-28
+Karur,18.6,7.1,540,14,5,Recommended for drinking,2025-08-27
+Vellakoil,21.0,7.0,620,17,6,Not recommended for drinking,2025-08-26
+Ooty,14.0,7.2,460,10,3,Recommended for drinking,2025-08-25
+Karaikal,22.4,7.3,680,19,8,Not recommended for drinking,2025-08-24
+Thiruvarur,20.9,7.0,590,15,5,Recommended for irrigation,2025-08-23
+Perambalur,21.3,6.9,610,16,6,Not recommended for drinking,2025-08-22
+Aruppukottai,20.0,7.0,600,15,5,Recommended for irrigation,2025-08-21
+Villupuram,22.6,7.1,650,18,7,Not recommended for drinking,2025-08-20
+Kovilpatti,19.1,7.0,560,14,5,Recommended for drinking,2025-08-19
+Salem (Extended),19.0,7.1,520,13,4,Recommended for irrigation and drinking,2025-08-18
+Ambur,18.2,6.9,530,13,5,Recommended for drinking,2025-08-17
+Sivakasi,20.4,7.0,590,15,6,Recommended for irrigation,2025-08-16
+Nagercoil,16.9,7.2,500,12,4,Recommended for drinking,2025-08-15
+Viluppuram,21.8,7.1,610,16,6,Not recommended for drinking,2025-08-14
+Namakkal,18.7,7.0,540,13,5,Recommended for drinking,2025-08-13
+Arani,17.9,7.0,520,12,4,Recommended for drinking,2025-08-12
+Gudalur,15.8,7.2,490,11,3,Recommended for drinking,2025-08-11
+Pollachi,17.4,7.1,530,13,5,Recommended for drinking,2025-08-10
+Karaikudi,22.2,7.3,660,18,7,Not recommended for drinking,2025-08-09
+Kanchipuram Town,16.7,7.1,520,13,5,Recommended for drinking,2025-08-08
+Tenkasi,21.1,7.2,640,17,6,Not recommended for drinking,2025-08-07
+Sankari,18.8,7.0,550,14,5,Recommended for irrigation,2025-08-06
+Palani,19.9,7.0,580,15,5,Recommended for irrigation,2025-08-05
+Kumbakonam Town,20.7,7.1,590,15,5,Recommended for irrigation,2025-08-04
+Theni,18.6,6.9,540,13,5,Recommended for drinking,2025-08-03
+Ponneri,19.3,7.0,560,14,5,Recommended for drinking,2025-08-02
+Nandivaram-Guduvanchery,17.1,7.0,530,13,5,Recommended for drinking,2025-08-01
+Coonoor,14.3,7.2,470,11,3,Recommended for drinking,2025-07-31
+Bhavani,18.4,7.0,540,13,5,Recommended for irrigation,2025-07-30
+Polur,20.5,7.1,600,16,6,Recommended for irrigation,2025-07-29
+Tiruvannamalai,19.6,6.9,610,16,6,Not recommended for drinking,2025-07-28
+Ulundurpettai,21.7,7.2,640,17,6,Not recommended for drinking,2025-07-27
+Karaikal Town,22.0,7.3,670,18,7,Not recommended for drinking,2025-07-26
+Arakkonam,18.9,7.0,550,14,5,Recommended for drinking,2025-07-25
+Alandur,16.5,7.1,520,13,5,Recommended for drinking,2025-07-24
+Pudupattinam,23.5,7.4,710,21,9,Not recommended for drinking,2025-07-23
+Sholavandan,19.0,7.0,580,15,5,Recommended for irrigation,2025-07-22
+Thiruthuraipoondi,22.8,7.3,690,19,8,Not recommended for drinking,2025-07-21
+Valparai,13.9,7.2,460,10,3,Recommended for drinking,2025-07-20
+Velankanni,21.4,7.1,620,16,6,Recommended for irrigation,2025-07-19
+Vijayawada,16.0,7.2,500,12,5,Recommended for drinking & irrigation,2025-09-20
+Visakhapatnam,15.8,7.3,480,11,4,Recommended for drinking,2025-09-20
+Nellore,20.2,7.4,630,15,6,Not recommended for drinking,2025-09-19
+Guntur,18.4,7.1,550,13,5,Recommended for irrigation,2025-09-19
+Rajahmundry,17.6,7.1,530,12,5,Recommended for irrigation,2025-09-17
+Kakinada,15.9,7.3,490,10,4,Recommended for drinking,2025-09-15
+Eluru,17.0,7.2,520,12,5,Recommended for drinking,2025-09-14
+Srikakulam,16.7,7.2,500,11,4,Recommended for drinking,2025-09-12
+Vizianagaram,16.5,7.3,495,11,4,Recommended for drinking,2025-09-11
+Tirupati,17.9,7.0,520,12,5,Recommended for drinking & irrigation,2025-09-18
+Kurnool,21.0,6.8,590,14,6,Not recommended for drinking,2025-09-18
+Kadapa,22.3,6.9,610,16,6,Not recommended for drinking,2025-09-17
+Anantapur,23.1,7.0,650,17,7,Not recommended for drinking,2025-09-16
+Machilipatnam,16.5,7.2,510,11,5,Recommended for drinking,2025-09-16
+Chittoor,18.1,7.1,540,13,5,Recommended for drinking & irrigation,2025-09-15
+Proddatur,20.5,6.9,600,15,6,Not recommended for drinking,2025-09-14
+Tadepalligudem,17.3,7.1,535,13,5,Recommended for irrigation,2025-09-13
+Ongole,19.8,7.0,580,14,6,Recommended for irrigation,2025-09-12
+Tenali,18.9,7.1,555,13,5,Recommended for irrigation,2025-09-11
+Nandyal,21.4,6.8,620,16,6,Not recommended for drinking,2025-09-10
+Rayachoti,22.6,7.0,640,17,7,Not recommended for drinking,2025-09-10
+Srikalahasti,17.8,7.2,520,12,5,Recommended for drinking & irrigation,2025-09-09
+Puttur,19.2,7.1,550,14,5,Recommended for irrigation,2025-09-09
+Gudivada,16.9,7.2,510,11,5,Recommended for drinking,2025-09-08
+Tiruvuru,17.5,7.0,530,13,5,Recommended for drinking & irrigation,2025-09-08
+Pulivendula,20.8,6.9,610,15,6,Not recommended for drinking,2025-09-07
+Adoni,22.1,7.0,630,16,6,Not recommended for drinking,2025-09-07
+Srisailam,19.5,6.9,600,15,6,Recommended for irrigation,2025-09-06
+Bhimavaram,15.7,7.3,495,10,4,Recommended for drinking,2025-09-06
+Madanapalle,18.2,7.1,540,13,5,Recommended for drinking & irrigation,2025-09-05
+Puducherry,13.0,7.1,495,12,5,Recommended for drinking,2025-09-18
+Oulgaret,13.1,7.3,470,9,3,Recommended for drinking,2025-09-18
+Villianur,14.2,7.1,510,12,5,Recommended for irrigation,2025-09-17
+Ariyankuppam,13.8,7.0,530,13,5,Recommended for irrigation,2025-09-17
+Bahour,15.0,6.9,600,15,6,Not recommended for drinking,2025-09-16
+Karaikal,11.9,7.2,460,9,4,Recommended for drinking,2025-09-16
+Mahe,10.5,7.3,450,8,3,Recommended for drinking,2025-09-15
+Yanam,12.2,7.1,495,10,4,Recommended for drinking & irrigation,2025-09-15
