@@ -1,4 +1,4 @@
-const BACKEND_API = 'https://geoflowai.netlify.app/';
+const BACKEND_API = 'https://geoflow.onrender.com';
 const messagesEl = document.getElementById('messages');
 const form = document.getElementById('chat-form');
 const input = document.getElementById('msg');
