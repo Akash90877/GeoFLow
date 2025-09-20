@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: geoflow-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GOOGLE_MAPS_API_KEY
+        value: AIzaSyCJ6tb2RPMSSzfJMjPWseuryzsiZu6XrrM
+      - key: GEMINI_API_KEY
+        value: AIzaSyBJo8cXDNUeJfyzeit3BSlxhRca2UotMSM

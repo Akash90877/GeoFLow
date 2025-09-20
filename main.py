@@ -1,3 +1,4 @@
+from fastapi import FastAPI, Request
 import os
 import sqlite3
 import re
@@ -304,3 +305,8 @@ async def get_report(location: str):
             'Content-Disposition': f'attachment; filename=groundwater_report_{location}.xlsx'
         }
     )
+import functions_framework
+
+@functions_framework.http
+def main(request):
+    return app(request.scope)
